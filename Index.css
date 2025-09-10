@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  padding: 50px;
+  font-family: "Open Sans", sans-serif;
+}
+
+#headline {
+  color: #e1624f;
+  size: 16px;
+  font-weight: bold;
+}
+
+#paragraph {
+  size: 16px;
+  font-style: Regular;
+}
+
+#subtitle {
+  size: 16px;
+  font-style: italic;
+}
