@@ -5,7 +5,8 @@
 }
 
 body {
-  padding: 50px;
+  margin-top: 105;
+  padding-left: 80px;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -23,4 +24,33 @@ body {
 #subtitle {
   size: 16px;
   font-style: italic;
+}
+
+h1 {
+  size: 36px;
+  font-weight: bold;
+}
+
+h2 {
+  size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  size: 28px;
+  font-weight: bold;
+}
+
+img {
+  border-radius: 28px;
+}
+
+#ib {
+  width: 1120px;
+  height: 660;
+}
+
+#im {
+  width: 1120px;
+  height: 350;
 }
